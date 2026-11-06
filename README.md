@@ -141,7 +141,7 @@ data, sensor validation, recalibration and expert testing.
 ## License
 MIT – synthetic data only, no personal data.
 
-## Build By "The Bug Busters"
+## Build By "The Bug Dealers"
 Nischay
 Shauriya 
 Jayesh
